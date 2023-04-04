@@ -1,1 +1,1 @@
-condicionales-operadores
+Condicionales y operadores logicos
